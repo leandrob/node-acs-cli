@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Leandro Boffi",
+    "mail": "leandro.boffi@tellago.com"
+  },
+  "name": "acs-cli",
+  "description": "node.js client for azure acs management service.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/tellagostudios/node-acs-cli.git"
+  },
+  "scripts": {
+    "test": "mocha tests/index.js --timeout 10000"
+  },
+  "dependencies": {
+    "request":"*",
+    "odata-cli":"*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "main":"./index"
+}
