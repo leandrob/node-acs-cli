@@ -8,7 +8,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/tellagostudios/node-acs-cli.git"
+    "url": "https://github.com/leandrob/node-acs-cli.git"
   },
   "scripts": {
     "test": "mocha tests/index.js --timeout 10000"
