@@ -1,7 +1,7 @@
 {
   "author": {
-    "name": "Leandro Boffi",
-    "mail": "leandro.boffi@tellago.com"
+    "name": "Leandro Boffi - Gustavo Machado",
+    "mail": "leandro.boffi@tellago.com - gustavo.machado@tellago.com"
   },
   "name": "acs-cli",
   "description": "node.js client for azure acs management service.",
